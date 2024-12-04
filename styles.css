@@ -3,6 +3,7 @@ body {
   font-weight: 600;
   margin: 0;
   background-color: #ffeacb;
+  color: #21212;
 }
 
 .container {
@@ -34,7 +35,7 @@ h1#article-title {
 
 h2 {
   font-size: 30px;
-  color: #213015;
+  color: #2f451e;
   font-family: Roboto Slab;
   margin-top: 10px;
   margin-bottom: 5px;
@@ -55,7 +56,7 @@ figure {
   border: 1px solid black;
   padding: 12px;
   padding-bottom: 24px;
-  background: whitesmoke
+  background: #F9F6EE;
 }
 
 figure img {
@@ -69,7 +70,7 @@ figure img {
 @media all and (min-width: 768px) {
 
   figure.main-image {
-    background: #e5f1e3;
+    background: #F9F6EE;
     border: 1px solid #285742;
     color: #060606;
     margin-bottom: 32px;
@@ -167,4 +168,3 @@ header nav ul {
   background-color: #9d6838;
   color: #FFFFFF;
  }
-
