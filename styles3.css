@@ -3,7 +3,14 @@ body {
   font-weight: 600;
   margin: 0;
   background-color: #ffeacb;
-  color: #212121;
+  color: #21212;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
 }
 
 .container {
@@ -38,6 +45,7 @@ h1#sources-title {
   color: #131f2a;
   font-family: Roboto Slab;
   text-align: center;
+  margin: 70px 30px 22px
 }
 
 h2 {
