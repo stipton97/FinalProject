@@ -46,6 +46,11 @@ p {
   margin-bottom: 1.25em;
 }
 
+iframe {
+ display: block;
+ margin: 0 auto;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -120,7 +125,7 @@ nav ul li {
 
 
 nav ul li a {
-  color: #7a2e19;
+  color: #2f451e;
   text-decoration: none;
   padding: 12px;
   display: block;
@@ -168,3 +173,4 @@ header nav ul {
   background-color: #9d6838;
   color: #FFFFFF;
  }
+
